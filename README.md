@@ -18,3 +18,4 @@ Thanks
 - **_Introduction_**
 - **_BitMagic_**
 - **_Recursion_**
+- **_Arrays_**
