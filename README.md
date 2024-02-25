@@ -19,3 +19,4 @@ Thanks
 - **_BitMagic_**
 - **_Recursion_**
 - **_Arrays_**
+- **_Searching_**
